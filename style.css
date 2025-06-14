@@ -6,11 +6,15 @@ body{
     align-items: center;
     margin: 0;
     height: 100vh;
+    
 }
 
 canvas{
     border: 5px solid rgb(255, 255, 255);
     background-color: black;
     
+}
+#p{
+    -webkit-text-fill-color: rgb(255, 0, 0);
 }
 
